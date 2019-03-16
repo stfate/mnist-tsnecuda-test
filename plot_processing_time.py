@@ -8,7 +8,7 @@
 
 import scipy as sp
 import json
-import umi.plot as pp
+import adelheid.plot as pp
 
 
 if __name__ == "__main__":

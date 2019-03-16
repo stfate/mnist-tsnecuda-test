@@ -12,7 +12,7 @@ from sklearn.datasets import fetch_mldata
 import json
 from tqdm import tqdm
 from umap import UMAP
-import umi.plot as pp
+import adelheid.plot as pp
 
 import time
 

@@ -12,7 +12,7 @@ from sklearn.datasets import fetch_mldata
 import json
 from tqdm import tqdm
 from mu.decomposition.tsne import BHTSNE
-import umi.plot as pp
+import adelheid.plot as pp
 
 import time
 
